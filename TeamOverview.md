@@ -28,3 +28,5 @@ Team Epic Nodes will focus on developing a blockchain application to manage mass
 **Kimberly Farley**, MSN, AGPCNP-BC (Philadelphia) – Farleyk25@gmail.com
 
 **Erik Gabbard**, Sr. .NET Developer (St. Louis) - erikgabbard@gmail.com
+
+**Jenna Cody**, Sr. Statistician (New Jersey) - jennacody94@gmail.com
